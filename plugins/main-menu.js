@@ -71,7 +71,7 @@ const formatoMenu = {
   header: '╔═══════ %category ══════╗',
   body: '┃%emoji » %cmd',
   footer: '╚══════════════════════╝',
-  after: `Powered by Kirito-Bot`,
+  after: `Powered by 𝑬𝑨𝑮𝑳𝑬-𝑩𝑶𝑻`,
 };
 
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
