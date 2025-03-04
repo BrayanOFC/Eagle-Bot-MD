@@ -31,17 +31,17 @@ console.log(`Error : ${e}`)
 global.creador = 'Wa.me/50488198573'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/50488198573'
-global.namechannel = '𝑲𝒊𝒓𝒊𝒕𝒐-𝑴𝑫 - 𝒖𝒑𝒅𝒂𝒕𝒆𝒔☆'
-global.namechannel2 = '𝑲𝒊𝒓𝒊𝒕𝒐-𝑴𝑫 - 𝒂𝒗𝒊𝒔𝒐𝒔☆'
-global.namegrupo = '✦ 𝐤𝐢𝐫𝐢𝐭𝐨-𝐁𝐨𝐭 𝐌𝐃 ☆'
-global.namecomu = '✭𝐊𝐢𝐫𝐢𝐭𝐨 𝐌𝐃 𝐂𝐨𝐦𝐮𝐧𝐢𝐭𝐲 ✪'
+global.namechannel = '𝑬𝑨𝑮𝑳𝑬-𝑩𝑶𝑻 - 𝒖𝒑𝒅𝒂𝒕𝒆𝒔☆'
+global.namechannel2 = '𝑬𝑨𝑮𝑳𝑬-𝑩𝑶𝑻 - 𝒂𝒗𝒊𝒔𝒐𝒔☆'
+global.namegrupo = '✦ 𝑬𝑨𝑮𝑳𝑬-𝑩𝑶𝑻 𝐌𝐃 ☆'
+global.namecomu = '✭𝑬𝑨𝑮𝑳𝑬-𝑩𝑶𝑻 𝐂𝐨𝐦𝐮𝐧𝐢𝐭𝐲 ✪'
 global.listo = '⚡ *Aquí tienes o(^▽^)o*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/56el7x.jpg')
 
 //Ids channel
 global.idchannel = '120363372653753296@newsletter'
 global.canalIdM = ["120363365444927738@newsletter", "120363365444927738@newsletter"]
-global.canalNombreM = ["𝑲𝒊𝒓𝒊𝒕𝒐-𝑴𝑫 - 𝒖𝒑𝒅𝒂𝒕𝒆𝒔☆", "𝑲𝒊𝒓𝒊𝒕𝒐-𝑴𝑫 - 𝒂𝒗𝒊𝒔𝒐𝒔☆"]
+global.canalNombreM = ["𝑬𝑨𝑮𝑳𝑬-𝑩𝑶𝑻-𝑴𝑫 - 𝒖𝒑𝒅𝒂𝒕𝒆𝒔☆", "𝑬𝑨𝑮𝑳𝑬-𝑩𝑶𝑻-𝑴𝑫 - 𝒂𝒗𝒊𝒔𝒐𝒔☆"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -60,11 +60,11 @@ global.error = '✖️'
 global.msm = '⚠︎'
 
 //Emojis determinado de kirito Bot
-global.emoji = '👑'
-global.emoji2 = '👑'
-global.emoji3 = '👑'
-global.emoji4 = '👑'
-global.emoji5 = '👑'
+global.emoji = '🦅'
+global.emoji2 = '🦅'
+global.emoji3 = '🦅'
+global.emoji4 = '🦅'
+global.emoji5 = '🦅'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
